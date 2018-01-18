@@ -1,6 +1,4 @@
-"""
-Template for implementing QLearner  (c) 2015 Tucker Balch
-"""
+
 
 import numpy as np
 import random as rand
@@ -121,5 +119,5 @@ class QLearner(object):
 
 
 	if __name__=="__main__":
-		print "Remember Q from Star Trek? Well, this isn't him"
+
 
