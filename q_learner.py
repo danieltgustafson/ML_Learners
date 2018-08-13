@@ -118,6 +118,6 @@ class QLearner(object):
 
 
 
-	if __name__=="__main__":
+
 
 
